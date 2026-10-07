@@ -78,8 +78,6 @@ Implementação de um banco de dados **NoSQL distribuído utilizando Apache Cass
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_SEU_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](COLE_AQUI_SEU_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ana-paula-dos-santos-tadim-9034a5327)
 
 📧 **E-mail:** anapaulatadim2003@gmail.com
