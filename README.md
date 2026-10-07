@@ -3,6 +3,7 @@
 ![UFOP](https://img.shields.io/badge/Universidade-UFOP-b30000?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Sobre Mim
 
@@ -27,13 +28,15 @@ Meus principais interesses incluem:
 
 | **Categoria** | **Tecnologias** |
 |---|---|
-| **Linguagens** | Python, SQL, C/C++, Java |
+| **Linguagens** | Python, SQL, C/C++, Java, Haskell |
 | **Ciência de Dados** | Análise de Dados, Manipulação de Dados, Machine Learning |
 | **Inteligência Artificial** | Classificação, Previsão, NLP |
 | **Bibliotecas e APIs** | NLTK, OpenAlex API, Genderize API |
 | **Banco de Dados** | SQL, MySQL, Apache Cassandra, NoSQL |
 | **Ferramentas** | Git, GitHub, Docker, Docker Compose |
 | **Outros** | APIs REST, Processamento de Dados |
+|**Metodologias** | Kaban, Design Thinking |
+|**Idiomas** | Português(nativo), Inglês, Espanhol |
 
 ---
 
@@ -47,9 +50,17 @@ Pesquisa envolvendo coleta, tratamento e análise de dados de pesquisadores e pu
 
 Desenvolvimento de um chatbot para automatizar a interação inicial com usuários, com foco na coleta estruturada de informações e geração de dados para análises. Projeto relacionado à linha de **Machine Learning e Inteligência Artificial**.
 
+**Projeto de Extensão - Desenvolvimento de material didático para o ensino de programação para meninas junto ao CódigoX**
+- Atuação como mentora desde 2024 na organização, ensinando programação básica para meninas
+em idade escolar.
+- Desenvolvimento de material didático voltado para a criação de aplicações mobile para crianças.
+- Ministração de oficinas de lógica de programação e introdução à Inteligência Artificial, promovendo a
+equidade de gênero em áreas STEM.
+
 **Projeto Acadêmico — Apache Cassandra**
 
 Implementação de um banco de dados **NoSQL distribuído utilizando Apache Cassandra**, com desenvolvimento de operações de manipulação de dados em Python e configuração do ambiente utilizando **Docker e Docker Compose**.
+
 
 ---
 
