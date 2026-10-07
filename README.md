@@ -57,6 +57,8 @@ em idade escolar.
 - Ministração de oficinas de lógica de programação e introdução à Inteligência Artificial, promovendo a
 equidade de gênero em áreas STEM.
 
+- **[Competição de Design Mobile (IHC 2024)](https://youtu.be/u41R_oJ2Djs)**: Participação no Congresso Brasileiro de Interação Humano-Computador (IHC 2024), integrando uma equipe de três membros no desenvolvimento e submissão de um protótipo de aplicação mobile. **[▶ Assistir à demonstração](https://youtu.be/u41R_oJ2Djs)**.
+
 **Projeto Acadêmico — Apache Cassandra**
 
 Implementação de um banco de dados **NoSQL distribuído utilizando Apache Cassandra**, com desenvolvimento de operações de manipulação de dados em Python e configuração do ambiente utilizando **Docker e Docker Compose**.
