@@ -7,7 +7,6 @@
 ![Ciência de Dados](https://img.shields.io/badge/CiênciadeDados-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Engenharia de Dados](https://img.shields.io/badge/Engenhariade%20Dados-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Sobre Mim
 
 Estudante de **Ciência da Computação na Universidade Federal de Ouro Preto (UFOP)**, com interesse em **Ciência de Dados, Inteligência Artificial, Machine Learning e Engenharia de Dados**.
 
