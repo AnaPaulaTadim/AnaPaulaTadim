@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Ciência de Dados](https://img.shields.io/badge/CiênciadeDados-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Engenharia de Dados](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Engenharia de Dados](https://img.shields.io/badge/Engenhariade%20Dados-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Sobre Mim
 
