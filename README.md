@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Ciência de Dados](https://img.shields.io/badge/Ciênciade%20Dados-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Ciência de Dados](https://img.shields.io/badge/CiênciadeDados-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Engenharia de Dados](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Sobre Mim
